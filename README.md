@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Awesome books  is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.
+## Awesome book with ES6
 
 
 ## Built With
@@ -13,7 +13,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://bienvenuushindi.github.io/awesome-books-es6/)
+[Live Demo Link](https://abass-rashid.github.io/awesome-book-ES6/))
 
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
